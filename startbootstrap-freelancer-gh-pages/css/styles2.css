@@ -1,0 +1,17 @@
+h3{
+    font-size: 50px;
+    color: navy;
+    font-family: sans-serif;
+    font-weight: bold;
+    text-align: center;
+}
+body{
+    font-family: sans-serif;
+    color: navy;
+    font-size: 20px;
+}
+.bold{font-weight: bold;}
+li{font-weight: normal;}
+.bluebg{
+    background-image: url(../assets/bluebg.jpg);
+}
